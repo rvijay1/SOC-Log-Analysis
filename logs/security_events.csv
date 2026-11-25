@@ -1,0 +1,14 @@
+EventID,Timestamp,Username,SourceIP,Computer,Description
+4624,2026-11-24 09:00:12,admin,192.168.1.10,WORKSTATION-01,Successful login
+4625,2026-11-24 09:05:10,admin,203.0.113.50,SERVER-01,Failed login
+4625,2026-11-24 09:05:15,admin,203.0.113.50,SERVER-01,Failed login
+4625,2026-11-24 09:05:20,admin,203.0.113.50,SERVER-01,Failed login
+4625,2026-11-24 09:05:25,admin,203.0.113.50,SERVER-01,Failed login
+4625,2026-11-24 09:05:30,admin,203.0.113.50,SERVER-01,Failed login
+4624,2026-11-24 09:10:12,john,192.168.1.15,WORKSTATION-02,Successful login
+4740,2026-11-24 09:15:00,admin,203.0.113.50,SERVER-01,Account locked out
+4625,2026-11-24 09:20:10,administrator,198.51.100.25,SERVER-01,Failed login
+4625,2026-11-24 09:20:15,administrator,198.51.100.25,SERVER-01,Failed login
+4624,2026-11-24 09:25:10,jane,192.168.1.20,WORKSTATION-03,Successful login
+4634,2026-11-24 09:30:00,john,192.168.1.15,WORKSTATION-02,Account logged out
+4720,2026-11-24 09:35:00,unknown,192.168.1.30,SERVER-01,New user account created
